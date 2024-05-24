@@ -6,7 +6,7 @@ Studying Software Engineering at Florida Tech
 
 * 🌍  I'm based in Palm Bay, Florida
 * ✉️  You can contact me at [evangainerthompson@gmail.com](mailto:evangainerthompson@gmail.com)
-* 🧠  I'm learning Docker.
+* 🧠  I'm learning ROS2
 * 🤝  I'm open to collaborating on any project.
 * ⚡  I'm looking for a summer 2024 internship.
 
