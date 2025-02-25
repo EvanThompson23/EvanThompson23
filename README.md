@@ -1,14 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evan G. Thompson
+My name is Evan Thompson
 ========================================================================================================================================
 
 Studying Software Engineering at Florida Tech
 ---------------------------------------------
-
-* 🌍  I'm based in Palm Bay, Florida
-* ✉️  You can contact me at [evangainerthompson@gmail.com](mailto:evangainerthompson@gmail.com)
-* 🧠  I'm learning ROS2
-* 🤝  I'm open to collaborating on any project.
-* ⚡  I'm looking for a summer 2024 internship.
+* Based in Palm Bay, Florida
+* You can contact me at [evangainerthompson@gmail.com](mailto:evangainerthompson@gmail.com)
 
 ### Skills
 
