@@ -5,7 +5,7 @@ My name is Evan Thompson
 Studying Software Engineering at Florida Tech
 ---------------------------------------------
 * Based in Palm Bay, Florida
-* You can contact me at [code@evanthompson.net](mailto:code@evanthompson.net.com)
+* You can contact me at [code@evanthompson.net](mailto:code@evanthompson.net)
 
 ### Skills
 
