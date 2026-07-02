@@ -1,11 +1,11 @@
 My name is Evan Thompson
 ========================================================================================================================================
-My goal is to aquire an internship for the summer of 2025. With an internship im looking to grow as a developer by learning more about the industry. My expected graduation date is December 2025.
+
 
 Studying Software Engineering at Florida Tech
 ---------------------------------------------
 * Based in Palm Bay, Florida
-* You can contact me at [evangainerthompson@gmail.com](mailto:evangainerthompson@gmail.com)
+* You can contact me at [code@evanthompson.net](mailto:code@evanthompson.net.com)
 
 ### Skills
 
